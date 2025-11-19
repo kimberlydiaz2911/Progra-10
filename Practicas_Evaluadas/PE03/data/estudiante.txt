@@ -1,0 +1,4 @@
+# Archivo de datos del estudiante
+NOMBRE= Kimberly Díaz Calderón
+CORREO= kimberlydiaz2911@gmail
+MATERIAS=Curso1, Curso2, Curso3
